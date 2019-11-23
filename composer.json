@@ -1,5 +1,5 @@
 {
-    "name": "fomvasss/laravel-punycode",
+    "name": "alibaba258/laravel-punycode",
     "description": "Package for encoding of Unicode for Internationalized Domain Names in Applications (IDNA)",
     "keywords": ["laravel", "punycode", "idn", "domain"],
     "type": "package",
