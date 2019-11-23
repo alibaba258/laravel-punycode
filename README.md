@@ -5,7 +5,7 @@ This package converts a Unicode encoded domain name to a IDNA ASCII form and vic
 ## Install
 Run:
 ```shell
-composer require "fomvasss/laravel-punycode"
+composer require "alibaba258/laravel-punycode"
 ```
 **For Laravel < 5.5**
 Add in ServiceProvider to the providers array in config/app.php
